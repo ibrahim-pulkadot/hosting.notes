@@ -21,7 +21,7 @@ Marka ismini ve domaini arkadaşım seçti — Berilis Hosting adını o koydu.
 
 ## 💰 İlk Yatırım
 
-İlk sermayemiz **3.600₺**'ydi. İlerleyen aylarda bu rakam hem aile desteği hem de yaptığımız diğer işlerden gelen küçük gelirlerle **20.000₺**'ye kadar çıktı.
+İlk sermayemiz **3.600₺**'ydi. İlerleyen aylarda bu rakam hem aile desteği hem de yaptığımız diğer işlerden gelen küçük gelirlerle **20.000₺**'ye kadar çıktı. Son 2 ayda ise bu rakam **40.000₺**'ye kadar yükseldi.
 
 ## 📋 Resmi Başvurular: BTK ve ETBİS
 
