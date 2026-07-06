@@ -58,4 +58,4 @@ En zor anlar genelde ödeme zamanlarıydı 🙂 Parayı yetiştiremediğimiz zam
 
 > **Not:** Yukarıda anlattığım BTK/ETBİS/KEP süreçlerini biz 4 denemede, deneme yanılmayla öğrendik. Bu süreçleri kendiniz uğraşmadan yönetmek isterseniz [hizmetlerimiz.md](../hizmetlerimiz.md) dosyasına göz atabilirsiniz.
 
-*İlgilenen olursa: [@ibrahim.e.yagmur](https://instagram.com/ibrahim.e.yagmur), [pulkadot.com](https://pulkadot.com) ya da **0850 307 54 31***
+*İlgilenen olursa: [@ibrahim.e.yagmur](https://instagram.com/ibrahim.e.yagmur), [pulkadot.com](https://pulkadot.com) ya da [**0850 307 54 31**](https://wa.me/908503075431) (WhatsApp)*
