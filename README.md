@@ -9,6 +9,7 @@ Artık aktif olarak firmayı yönetmiyorum, ama bu yolda öğrendiğim her şeyi
 - [🚀 01 - Şirket Açılışı](01-sirket-acilisi/README.md)
 - [🏗️ 02 - Altyapı Kurulumu](02-altyapi-kurulumu/README.md)
 - [🧩 03 - Panel ve Operasyon](03-panel-operasyon/README.md)
+- [🛡️ 04 - Güvenlik ve DDoS](04-guvenlik-ddos/README.md)
 
 ## 🤝 Bir Şeye mi Takıldınız?
 
