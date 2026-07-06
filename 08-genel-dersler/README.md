@@ -56,6 +56,6 @@ Aynı 10 sunucu / 3.072 GB kapasiteyi bu sefer **kurumsal müşterilere, SLA Sev
 
 ## 🎯 Son Söz
 
-> "Risk almadan hiçbir şekilde başarılı iş yapamazsın."
+> "Risk almayan kazanamaz, kazanmayan da bir şey öğrenemez. Ben kaybettim, ama öğrendim — ve şimdi burdayım."
 
 Hosting sektörüne yeniden girecek olsam, **kendi yazılımımla, kendi donanımımla** girerdim ve **pazarlamayı asla küçümsemez**, ona da yeterli bütçe ayırırdım.
