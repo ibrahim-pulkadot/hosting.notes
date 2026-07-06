@@ -38,7 +38,7 @@ Marka ismini ve domaini arkadaşım seçti — Berilis Hosting adını o koydu.
 
 ## 👥 Ekip
 
-Başlangıçta 2 CEO ile yola çıktık: ben ve arkadaşım. Discord üzerinden Berilis Hosting'i kurup bir destek ekibi topladık — 5-6 kişilik bir destek talep ekibi oluşturduk. Daha sonra aramıza 1 CEO daha katıldı ve 3 kişi olduk.
+Başlangıçta 2 CEO ile yola çıktık: ben ve arkadaşım [@kayraksp](https://instagram.com/kayraksp) — bana ilk fiziksel sunucu fikrinden bahseden ve bu işe birlikte atıldığımız kişi. Discord üzerinden Berilis Hosting'i kurup bir destek ekibi topladık — 5-6 kişilik bir destek talep ekibi oluşturduk. Daha sonra aramıza 1 CEO daha katıldı ve 3 kişi olduk.
 
 ## ⚙️ Altyapı ve Yazılım
 
@@ -58,4 +58,4 @@ En zor anlar genelde ödeme zamanlarıydı 🙂 Parayı yetiştiremediğimiz zam
 
 > **Not:** Yukarıda anlattığım BTK/ETBİS/KEP süreçlerini biz 4 denemede, deneme yanılmayla öğrendik. Bu süreçleri kendiniz uğraşmadan yönetmek isterseniz [hizmetlerimiz.md](../hizmetlerimiz.md) dosyasına göz atabilirsiniz.
 
-*İlgilenen olursa: [@ibrahim.e.yagmur](https://instagram.com/ibrahim.e.yagmur) / [@kayraksp](https://instagram.com/kayraksp)*
+*İlgilenen olursa: [@ibrahim.e.yagmur](https://instagram.com/ibrahim.e.yagmur), [pulkadot.com](https://pulkadot.com) ya da **0850 307 54 31***
