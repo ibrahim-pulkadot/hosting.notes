@@ -2,7 +2,7 @@
 
 ## 🎮 Müşteri Profili
 
-Müşteri kitlemizin büyük çoğunluğu oyun sunucusu sahipleriydi — **FiveM**, **MTA**, **Minecraft**. Hatta FiveM'de **500+ oyuncu** çeken büyük sunuculardan biri de bizden hizmet aldı. Bazı müşteriler için özel olarak Amerika lokasyonlu, **20G portlu Ryzen 9 5950X** fiziksel sunucular kiraladık.
+Müşteri kitlemizin büyük çoğunluğu oyun sunucusu sahipleriydi — **FiveM**, **MTA**, **Minecraft**. Hatta FiveM'de **500+ oyuncu** çeken büyük sunuculardan biri de bizden hizmet aldı. Bu tarz özel müşteriler için, 2 ay boyunca Amerika lokasyonlu, **20G portlu Ryzen 9 9950X** bir fiziksel sunucu kiraladık — bu cihazda komple tek başına yalnızca o müşterinin 1 VDS'i çalışıyordu.
 
 ## 💸 En Çok Satan Paket & Fiyatlandırma Hatası
 
