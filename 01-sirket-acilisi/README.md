@@ -1,12 +1,12 @@
-# Şirket Açılışı
+# 🚀 Şirket Açılışı
 
-## Başlangıç
+## 🎲 Başlangıç
 
 Hosting işine girişimiz tamamen bir tesadüftü. Bir gün bir arkadaşım fiziksel sunucu aldığını söyledi, ben de merak edip araştırdım. Meğer benim o zamana kadar kullandığım VDS hizmetlerinin "babası" gibi bir şeymiş — çok ilgimi çekti. Arkadaşıma "gel ortak olalım, bu işi yapalım" dedim, o da kabul etti. Berilis Hosting böyle başladı: **16 Kasım 2025**.
 
 O tarihe kadar arkadaşımla birlikte website/uygulama geliştirip satıyorduk, hosting bizim için tamamen yeni bir alandı.
 
-## Şirket Kuruluşu
+## 🏢 Şirket Kuruluşu
 
 Şirket türü olarak **şahıs firması** ile başladık. Annem yeminli mali müşavir olduğu için açılış süreci bizim için nispeten kolay geçti.
 
@@ -19,15 +19,15 @@ Birkaç önemli not:
 
 Marka ismini ve domaini arkadaşım seçti — Berilis Hosting adını o koydu.
 
-## İlk Yatırım
+## 💰 İlk Yatırım
 
 İlk sermayemiz **3.600₺**'ydi. İlerleyen aylarda bu rakam hem aile desteği hem de yaptığımız diğer işlerden gelen küçük gelirlerle **20.000₺**'ye kadar çıktı.
 
-## Resmi Başvurular: BTK ve ETBİS
+## 📋 Resmi Başvurular: BTK ve ETBİS
 
 Şirket kurulduktan sonra hosting sektörü için gerekli olan BTK ve ETBİS başvurularını yaptık. BTK süreci gerçekten bizi zorladı — tecrübemiz olmadığı için **4. başvuruda** ancak kabul gördük. Tamamen deneme yanılma yoluyla öğrendik.
 
-## İlk Sunucular
+## 🖥️ İlk Sunucular
 
 İlk fiziksel sunucumuzu İstanbul'dan aldık (firma ismini vermek istemiyorum, o firmayla çok da güzel tecrübelerimiz olmadı).
 
@@ -36,21 +36,21 @@ Marka ismini ve domaini arkadaşım seçti — Berilis Hosting adını o koydu.
   - 3x Intel Xeon E5 V2, 256 GB RAM, 2 TB disk
   - 2x Ryzen 9 5950X, 128 GB DDR4 RAM, 2 TB disk
 
-## Ekip
+## 👥 Ekip
 
 Başlangıçta 2 CEO ile yola çıktık: ben ve arkadaşım. Discord üzerinden Berilis Hosting'i kurup bir destek ekibi topladık — 5-6 kişilik bir destek talep ekibi oluşturduk. Daha sonra aramıza 1 CEO daha katıldı ve 3 kişi olduk.
 
-## Altyapı ve Yazılım
+## ⚙️ Altyapı ve Yazılım
 
 - Sanallaştırma için **VMware ESXi 8** kullandık.
 - Fiziksel sunucu tedariğinde **DiyoVM**'i tercih ettik — sahibi Emirhan Bey'e gerçekten teşekkür ederim, kurulumlarda bile yardımcı oldu, normalde bunu yapmak zorunda değil ama her zaman ilgiliydi.
 - Panel olarak başta **WiseCP** kullandık, sonrasında WHMCS API'si ile kendi yazılımımızı yazıp **Next.js** tabanlı bir site geliştirdik.
 
-## Büyüme
+## 📈 Büyüme
 
 Başlangıçta birkaç yere sponsor olduk, açılıştan 1.5 ay sonra Marpel Discord botuna bile sponsor olduk (bot bizde barınıyordu). Onların tanıtım ve reklamlarıyla müşteri kitlesine ulaştık. Müşteri kitlemizin büyük kısmını Discord sunucumuz üzerinden çektik — VDS çekilişleriyle 600 kişiye kadar ulaştık, sunucumuz çok aktif hale gelmişti.
 
-## En Zor Anlar
+## 😅 En Zor Anlar
 
 En zor anlar genelde ödeme zamanlarıydı 🙂 Parayı yetiştiremediğimiz zamanlar hiç az olmadı.
 
