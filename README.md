@@ -1,4 +1,4 @@
-# 🖧 hosting.notes
+# 🖧 Hosting Notlarım
 
 Türkiye'de 5 sunuculuk bir hosting firması işletirken edindiğim tecrübeler - sunucu yönetimi, güvenlik, DDoS, müşteri/destek süreçleri ve kapanış sürecinden çıkardığım dersler. 📝
 
