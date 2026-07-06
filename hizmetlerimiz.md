@@ -11,7 +11,6 @@ Berilis Hosting'i kurarken BTK başvurusunu 4 kez denedik, KEP/e-imza/e-fatura s
 
 💰 **Ücret:** KDV dahil **1.750₺ — tek seferlik ücret** (aylık değil)
 
-- 📆 İsteğe bağlı **hosting takip yazılımı** için **tek seferlik 250₺** ödenir.
 - 🗣️ Danışmanlık gerekirse, bunun için **ek ücret** alınır — danışmanlık başına saatlik/günlük ücret ayrıca konuşulur, sabit bir fiyatımız yok.
 
 ## 🖥️ Anahtar Teslim Hosting Yönetimi
