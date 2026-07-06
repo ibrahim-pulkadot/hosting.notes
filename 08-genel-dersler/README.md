@@ -54,8 +54,6 @@ Aynı 10 sunucu / 3.072 GB kapasiteyi bu sefer **kurumsal müşterilere, SLA Sev
 | 6 GB RAM | ~250₺ | **400₺** | 512 | 204.800₺ |
 | 8 GB RAM | 330₺ | **530₺** | 384 | 203.520₺ |
 
-*(Bu tablodaki %60 prim oranı örnek bir varsayımdır — gerçek kurumsal fiyatlandırmanız farklıysa bana gerçek rakamı ver, tabloyu ona göre güncelleyeyim. Burada da teorik maksimum doluluk varsayılmıştır, kurumsal satışta gerçek doluluk oranı genelde bireysele göre daha düşük ama müşteri başına daha istikrarlı olur.)*
-
 ## 🎯 Son Söz
 
 > "Risk almadan hiçbir şekilde başarılı iş yapamazsın."
