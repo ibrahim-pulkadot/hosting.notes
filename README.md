@@ -12,6 +12,7 @@ Artık aktif olarak firmayı yönetmiyorum, ama bu yolda öğrendiğim her şeyi
 - [🛡️ 04 - Güvenlik ve DDoS](04-guvenlik-ddos/README.md)
 - [🎧 05 - Müşteri ve Destek Süreçleri](05-musteri-destek/README.md)
 - [📊 06 - Büyüme ve Ölçekleme](06-buyume-olcekleme/README.md)
+- [🔚 07 - Kapanış](07-kapanis/README.md)
 
 ## 🤝 Bir Şeye mi Takıldınız?
 
