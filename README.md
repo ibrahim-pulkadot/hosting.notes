@@ -10,6 +10,7 @@ Artık aktif olarak firmayı yönetmiyorum, ama bu yolda öğrendiğim her şeyi
 - [🏗️ 02 - Altyapı Kurulumu](02-altyapi-kurulumu/README.md)
 - [🧩 03 - Panel ve Operasyon](03-panel-operasyon/README.md)
 - [🛡️ 04 - Güvenlik ve DDoS](04-guvenlik-ddos/README.md)
+- [🎧 05 - Müşteri ve Destek Süreçleri](05-musteri-destek/README.md)
 
 ## 🤝 Bir Şeye mi Takıldınız?
 
