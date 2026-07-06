@@ -13,6 +13,7 @@ Artık aktif olarak firmayı yönetmiyorum, ama bu yolda öğrendiğim her şeyi
 - [🎧 05 - Müşteri ve Destek Süreçleri](05-musteri-destek/README.md)
 - [📊 06 - Büyüme ve Ölçekleme](06-buyume-olcekleme/README.md)
 - [🔚 07 - Kapanış](07-kapanis/README.md)
+- [🎓 08 - Genel Dersler ve Tavsiyeler](08-genel-dersler/README.md)
 
 ## 🤝 Bir Şeye mi Takıldınız?
 
