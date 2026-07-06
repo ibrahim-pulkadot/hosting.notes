@@ -7,6 +7,7 @@ Artık aktif olarak firmayı yönetmiyorum, ama bu yolda öğrendiğim her şeyi
 ## 📚 İçindekiler
 
 - [🚀 01 - Şirket Açılışı](01-sirket-acilisi/README.md)
+- [🏗️ 02 - Altyapı Kurulumu](02-altyapi-kurulumu/README.md)
 
 ## 🤝 Bir Şeye mi Takıldınız?
 
