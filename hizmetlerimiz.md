@@ -11,4 +11,4 @@ Berilis Hosting'i kurarken BTK başvurusunu 4 kez denedik, KEP/e-imza/e-fatura s
 
 💰 **Ücret:** KDV dahil **1.750₺/ay**
 
-📩 İlgilenirseniz [@ibrahim.e.yagmur](https://instagram.com/ibrahim.e.yagmur) üzerinden ulaşabilirsiniz.
+📩 İlgilenirseniz [@ibrahim.e.yagmur](https://instagram.com/ibrahim.e.yagmur), [pulkadot.com](https://pulkadot.com) ya da **0850 307 54 31** üzerinden bize ulaşabilirsiniz.
